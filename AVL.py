@@ -332,5 +332,4 @@ if __name__ == "__main__":
             print(Tree)
 
       print(Tree)
-      print("\n DANIEL JARA CANO 23052")
       print("\n")
